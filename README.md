@@ -4,6 +4,14 @@ O **Analytics Dashboard Pro** é uma plataforma analítica agnóstica e multifun
 
 ---
 
+## 🔗 Acesse a Aplicação em Tempo Real
+
+A aplicação está hospedada na nuvem e pode ser acessada e testada de qualquer dispositivo através do link abaixo:
+
+👉 **[Clique aqui para acessar o Dashboard Online](https://analytics-dashboard-pro.streamlit.app/)**
+
+---
+
 ## 🚀 Funcionalidades Chave
 
 - **Mapeamento Agnóstico de Dados:** Identifica de forma automática colunas de texto (categorias) e numéricas (valores), adaptando-se a qualquer modelo de planilha.
