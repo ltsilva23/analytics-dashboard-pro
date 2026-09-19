@@ -56,7 +56,7 @@ source venv/bin/activate
 
 ### 3. Instalar as Dependências
 ```bash
-pip install streamlit pandas plotly reportlab openpyxl python-dotenv
+pip install -r requirements.txt
 ```
 
 ### 4. Executar a Aplicação
@@ -74,6 +74,7 @@ A aplicação abrirá automaticamente uma aba no seu navegador padrão no endere
 ├── core_analise.py   # Motor lógico de tratamento e filtragem (Pandas)
 ├── dados.py          # Arquivo auxiliar com dados de simulação padrão
 ├── .gitignore        # Bloqueio de arquivos locais e confidenciais
+├── requirements.txt  # Lista de dependências para instalação na nuvem
 └── README.md         # Documentação técnica do projeto
 ```
 
